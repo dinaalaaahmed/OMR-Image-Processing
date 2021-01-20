@@ -1,58 +1,58 @@
 # OMR
 ![Music Symbols](/images/cover.jpg)
-OMR is an optical music recognition system written in the Python which converts sheet music into a readable text file.
+* OMR is an optical music recognition system written in the Python which converts sheet music into a readable text file.
 
 ## Algorithms & Techniques
 ### Binarization:
-*local Otsu
+* local Otsu
 ### Rotating:
-*Hough transform
+* Hough transform
 ### Find Line width and Line space:
-*run length coding
+* run length coding
 ### Split lines:
-*Projection
+* Projection
 ### Remove lines for scanned images:
-*Line Removal with Projection
+* Line Removal with Projection
 ### Remove lines for hand written images:
-*Transfer music symbols to another image with Line width and Line space
+* Transfer music symbols to another image with Line width and Line space
 ### Calculate staff line places:
-*Projection
+* Projection
 ### Segmentation:
-*find contours
+* find contours
 ### Classification:
-*NN
+* NN
 ### Extract features:
-*hog
+* HOG
 ### Centre of circles detection:
-*Hough Circles
+* Hough Circles
 ### Primitive detection:
-*Morphological operations
+* Morphological operations
 
 
 ## Prerequisites
-*Python3
-*Numpy
-*Skimage
-*Open CV
-*Sklearn
+* Python3
+* Numpy
+* Skimage
+* Open CV
+* Sklearn
 
 ## Running the tests
-*Put your input images inside the input folder
-*python main.py $path_of_input_folder $path_of_output_folder
-*Output appers inside the output folder
+* Put your input images inside the input folder
+* python main.py $path_of_input_folder $path_of_output_folder
+* Output appers inside the output folder
 
 ## Testing
-![Input Image](/images/04.PNG)
-![Output](/images/output4.PNG)
+![Input Image](/images/04.png)
+![Output](/images/output4.png)
 
 ## Accuracy
 ### NN Hog Accuracy detection
-*95.7%
+* 95.7%
 ### Overall Accuracy for scanned images:
-*about 98%
+* about 98%
 
 ## Contributers
-*Dai Alaa
-*Dina Alaa
-*Mohamed Monsef
-*Nerdeen Ahmad
+* Dai Alaa
+* Dina Alaa
+* Mohamed Monsef
+* Nerdeen Ahmad
