@@ -42,7 +42,7 @@
 * Output appers inside the output folder
 
 ## Testing
-![Input Image](/images/04.png)
+![Input Image](/images/04.PNG)
 ![Output](/images/output4.png)
 
 ## Accuracy
