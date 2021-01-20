@@ -1,3 +1,4 @@
+![Image description](/images/cover.jpg)
 # OMR
 * Optical music recognition system written in Python which converts sheet music into a readable text file.
 
