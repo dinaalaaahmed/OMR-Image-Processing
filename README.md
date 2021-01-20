@@ -1,5 +1,5 @@
 # OMR
-*Optical music recognition system written in Python which converts sheet music into a readable text file.
+* Optical music recognition system written in Python which converts sheet music into a readable text file.
 
 ## Algorithms & Techniques
 ### Binarization:
