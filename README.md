@@ -1,6 +1,5 @@
 # OMR
-![Music Symbols](/images/cover.jpg)
-* OMR is an optical music recognition system written in Python which converts sheet music into a readable text file.
+*Optical music recognition system written in Python which converts sheet music into a readable text file.
 
 ## Algorithms & Techniques
 ### Binarization:
@@ -51,7 +50,7 @@
 ### Overall Accuracy for scanned images:
 * about 98%
 
-## Contributers
+## Contributors
 * Dai Alaa
 * Dina Alaa
 * Mohamed Monsef
